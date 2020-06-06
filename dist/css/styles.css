@@ -9939,9 +9939,10 @@ blockquote {
   tr,
 img {
     page-break-inside: avoid;
-    width: auto ;
+    width: auto !added by AHSAN; 
     max-width: 100% ;
-    height: auto ;
+    min-width: 300px ;
+    height: auto !added by AHSAN;
   }
 
   p,
