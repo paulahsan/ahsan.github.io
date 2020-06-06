@@ -9939,6 +9939,9 @@ blockquote {
   tr,
 img {
     page-break-inside: avoid;
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
   }
 
   p,
