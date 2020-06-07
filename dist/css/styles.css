@@ -199,11 +199,6 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  width: auto !added by AHSAN; 
-  max-width: 100% ;
-  min-width: 300px ;
-  display:block ;
-  height: auto !added by AHSAN;
 }
 
 svg {
